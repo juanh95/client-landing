@@ -67,7 +67,7 @@ class Product extends React.Component {
                       color="primary" 
                       style={{float: 'right'}} 
                     >
-                      Shop Monat {this.props.type} Products
+                      Shop {this.props.type} Products
                     </Button>;
     }
 
