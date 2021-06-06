@@ -28,7 +28,7 @@ class App extends React.Component {
           <Box p={1}>
             <Product
               type="Hair"
-              shopLink="https://carolinajherrera.mymonat.com/all-our-products/"
+              shopLink=""
               survey={hairQuestions}
               image={hairConsultationImage}
             />
@@ -36,7 +36,7 @@ class App extends React.Component {
           <Box p={1}>
             <Product 
               type="Skin"
-              shopLink="https://carolinajherrera.mymonat.com/skincare/"
+              shopLink=""
               survey={skinQuestions}
               image={skinConsultationImage}
             />
